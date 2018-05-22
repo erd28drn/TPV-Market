@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPV-Data", "TPV-Data\TPV-Data.csproj", "{C49C075F-5173-4A35-8F24-4CC55398BEC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPV-Service", "TPV-Service\TPV-Service.csproj", "{84957058-A27E-45E3-98BF-57C61700746F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPV-View-User", "TPV-View-User\TPV-View-User.csproj", "{CEC0A8D9-2BE9-44DD-9BDD-67295437ED78}"
+	ProjectSection(ProjectDependencies) = postProject
+		{84957058-A27E-45E3-98BF-57C61700746F} = {84957058-A27E-45E3-98BF-57C61700746F}
+		{C49C075F-5173-4A35-8F24-4CC55398BEC8} = {C49C075F-5173-4A35-8F24-4CC55398BEC8}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPV-View-Admin", "TPV-View-Admin\TPV-View-Admin.csproj", "{A59A1A8E-3D9B-4074-BA06-5D3094F2106E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{84957058-A27E-45E3-98BF-57C61700746F} = {84957058-A27E-45E3-98BF-57C61700746F}
+		{C49C075F-5173-4A35-8F24-4CC55398BEC8} = {C49C075F-5173-4A35-8F24-4CC55398BEC8}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C49C075F-5173-4A35-8F24-4CC55398BEC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C49C075F-5173-4A35-8F24-4CC55398BEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C49C075F-5173-4A35-8F24-4CC55398BEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C49C075F-5173-4A35-8F24-4CC55398BEC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84957058-A27E-45E3-98BF-57C61700746F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84957058-A27E-45E3-98BF-57C61700746F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84957058-A27E-45E3-98BF-57C61700746F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84957058-A27E-45E3-98BF-57C61700746F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC0A8D9-2BE9-44DD-9BDD-67295437ED78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC0A8D9-2BE9-44DD-9BDD-67295437ED78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC0A8D9-2BE9-44DD-9BDD-67295437ED78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC0A8D9-2BE9-44DD-9BDD-67295437ED78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A59A1A8E-3D9B-4074-BA06-5D3094F2106E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59A1A8E-3D9B-4074-BA06-5D3094F2106E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59A1A8E-3D9B-4074-BA06-5D3094F2106E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59A1A8E-3D9B-4074-BA06-5D3094F2106E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {582C915E-2908-46D6-8D1E-2C9427622CF3}
+	EndGlobalSection
+EndGlobal

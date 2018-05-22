@@ -1,0 +1,12 @@
+C:\Users\Usuario\Google Drive\TPV-Market\TPV-Market\TPV-Data\bin\Debug\TPV-Data.dll
+C:\Users\Usuario\Google Drive\TPV-Market\TPV-Market\TPV-Data\bin\Debug\TPV-Data.pdb
+C:\Users\Usuario\Google Drive\TPV-Market\TPV-Market\TPV-Data\obj\Debug\TPV-Data.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Google Drive\TPV-Market\TPV-Market\TPV-Data\obj\Debug\TPV-Data.dll
+C:\Users\Usuario\Google Drive\TPV-Market\TPV-Market\TPV-Data\obj\Debug\TPV-Data.pdb
+C:\Users\Usuario\Google Drive\TPV-Market\TPV-Market\TPV-Data\bin\Debug\TPV-Data.dll.config
+C:\Users\Usuario\Google Drive\TPV-Market\TPV-Market\TPV-Data\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Google Drive\TPV-Market\TPV-Market\TPV-Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Google Drive\TPV-Market\TPV-Market\TPV-Data\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Google Drive\TPV-Market\TPV-Market\TPV-Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Google Drive\TPV-Market\TPV-Market\TPV-Data\obj\Debug\TPV-Data.csproj.CopyComplete
+C:\Users\Usuario\Google Drive\TPV-Market\TPV-Market\TPV-Data\obj\Debug\TPV-Data.csprojAssemblyReference.cache
